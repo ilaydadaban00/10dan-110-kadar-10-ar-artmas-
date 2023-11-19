@@ -1,0 +1,10 @@
+C:\Users\ben\source\repos\aralıklı artırma\aralıklı artırma\bin\Debug\aralıklı artırma.exe.config
+C:\Users\ben\source\repos\aralıklı artırma\aralıklı artırma\bin\Debug\aralıklı artırma.exe
+C:\Users\ben\source\repos\aralıklı artırma\aralıklı artırma\bin\Debug\aralıklı artırma.pdb
+C:\Users\ben\source\repos\aralıklı artırma\aralıklı artırma\obj\Debug\aralıklı artırma.csproj.AssemblyReference.cache
+C:\Users\ben\source\repos\aralıklı artırma\aralıklı artırma\obj\Debug\aralıklı_artırma.Form1.resources
+C:\Users\ben\source\repos\aralıklı artırma\aralıklı artırma\obj\Debug\aralıklı_artırma.Properties.Resources.resources
+C:\Users\ben\source\repos\aralıklı artırma\aralıklı artırma\obj\Debug\aralıklı artırma.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\aralıklı artırma\aralıklı artırma\obj\Debug\aralıklı artırma.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\aralıklı artırma\aralıklı artırma\obj\Debug\aralıklı artırma.exe
+C:\Users\ben\source\repos\aralıklı artırma\aralıklı artırma\obj\Debug\aralıklı artırma.pdb
